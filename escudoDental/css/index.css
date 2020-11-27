@@ -1,0 +1,303 @@
+@font-face {
+	font-family: Raleway;
+	src: url(../../fuentes/Raleway-Regular.ttf);
+	}
+	*{
+		font-family: Raleway;
+		font-weight: bold;
+	}
+	html{
+		overflow-x: hidden;
+	}
+	body{
+		
+	}
+	nav{
+		height: 130px;
+	}
+	#navbarNavDropdown{
+		z-index: 1;
+	}
+	.navbar-brand {
+	padding-right: 10%;
+	
+	}
+
+	#header-line{
+		height: 40px;
+		background-color: black;
+		width: 100%;
+		align-items: flex-start;
+		margin-bottom: 20px;
+	}
+	#small-line{
+		height: 5px;
+		background-color:cornflowerblue;
+		width: 100%;
+		align-items: flex-start;
+	}
+	#center-line{
+		height: 80px;
+		background-color: black;
+		width: 100%;
+		flex-direction: row;
+	}
+	#middle-box{
+		margin: 10px;
+		flex-direction: column;
+		width: 400px;
+	}
+	#inner-middle-box{
+		display: inline-flex;
+		width: 100%;
+	}
+	
+	#white-text{
+		color: #FFFFFF;	
+		font-size: small;
+	}
+	#blue-text{
+		color: #1dafed;
+		font-size: small;
+	}
+	
+	#bold-text{
+		font-weight: bolder;
+		color: red;
+		background-color: seagreen;
+	}
+
+	.blue-button{
+		background-color: #33ccff;
+	}
+
+	.navbar-expand-lg .navbar-nav .nav-link {
+		padding-right: 1.5rem;
+		padding-left: 0.5rem;
+	}
+	.container-fluid{
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+	
+	#head{
+		background: #fcfdfe;
+		
+	}
+	#head div{
+		display: flex;
+	}
+	#head div a{
+		margin: auto; 
+		margin-left: 20%;
+	
+	}
+	#head div img{
+		margin: auto;
+		height: 100px;
+	}
+	#head div h5{
+		margin: auto;
+		color: white;
+	}
+	#head div h5 a{
+		margin: auto;
+		color: white;
+		text-decoration: none;
+		color: black;
+	}
+	th{
+		text-align: center;
+		padding: 10px;
+		color: #eafaff;
+		font-weight: bold;
+	
+	}
+	tr{
+		text-align: center;
+		padding: 10px;
+	}
+	td{
+		text-align: center;
+		padding: 10px;
+		border: 2px white solid;
+	}
+	.tabla1{
+		margin-bottom: 50px !important;
+	
+	}
+	#banner{
+		width: 101%;
+	}
+	#listas{
+		
+	}
+	#listas div h3{
+		margin-top: 50px;
+		font-weight: bold;
+	
+	}
+	#listas div{
+		
+	}
+	#listas div div{
+		width: 50%;
+		margin: auto;	
+	}
+	#lisT{
+		color: white;
+	}
+	
+	#formulario{
+		background: #434343;
+	}
+	#frm{
+		margin: auto;
+		width: 100%;
+		margin-top: 50px;
+	
+	}
+	#fra1{
+	height: 50px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+	#fra1 div{
+		
+	
+	}
+	#fra1 div h3{
+	margin: auto;
+	width: 70%;
+	text-align: center;
+	color: white;
+	background: #2b2b2b;
+	padding: 10px;
+	}
+	#txtfrm{
+		display: flex;
+		height: 100px;
+	}
+	#txtfrm h1{
+	margin: auto;
+	color: white;
+	}
+	
+	#lisT div{
+		width: 35%;
+	}
+	
+	#lisT div ul{
+		list-style: none;
+	}
+	label{
+		color: white;
+	}
+	input{
+		background: #b9b8b8 !important;
+	}
+	select{
+		background: #b9b8b8 !important;
+	}
+	#tyc{
+		height: 100px;
+	}
+	#tyc div button{
+		background: #1dafed !important;
+		border: none;
+	}
+	.campos{
+		margin-top: 50px;
+		margin: auto;
+		width: 50%;
+	}
+	.cam{
+		margin-top: 20px;
+	}
+	.frmp1{
+		margin: auto;
+		width: 40%;
+	}
+	
+	/* NUEVO */
+	#header-line{
+		height: 40px;
+		background-color: black;
+		width: 100%;
+		align-items: flex-start;
+		margin-bottom: 20px;
+	}
+
+	#tablas{
+		margin-top: 30px;
+		margin: auto;
+		width: 60%;
+	}
+
+	#textoh6{
+
+		color: #FFF;
+	
+	}
+
+	#textobajo{
+
+
+		
+	}
+
+	.text-box{
+		background-color: red;
+		margin-top: 40px;
+	}
+
+	#small-line{
+		height: 5px;
+		background-color:#2278b1;
+		width: 100%;
+		align-items: flex-start;
+	}
+	#center-line{
+		height: 100px;
+		background-color: black;
+		width: 100%;
+		align-items: flex-start;
+		margin-bottom: 20px;
+	}
+	/* FIN nuevo */
+	
+	@media (max-width: 991.98px) { 
+	
+	#listas div div {
+		width: 80%;
+	}
+	#lisT div {
+		width: 80%;
+	}
+	.frmp1{
+		margin: auto;
+		width: inherit;
+	}
+	.campos{
+	width: inherit;
+	 }
+	
+	.navbar-nav{
+		padding-left: 19px;
+		font-size: 1.5rem;
+	} 
+	#banner{
+		width: inherit;
+		background: rgba(255,255,255,0.8);
+	}
+	#navbarNavDropdown {
+		background: rgba(255,255,255,0.8);
+		margin-top: 11px;
+	}
+	.navbar-brand {
+	padding-right: 0%;
+	
+	}
+	
+	
+	  }

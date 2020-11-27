@@ -1,0 +1,112 @@
+#texto1 {
+	height: 200px;
+	background: #ef633d;
+}
+
+#texto1 div h1 {
+	font-family: Scotia-bold;
+	color: white;
+	font-size: 3rem;
+}
+
+#texto2 {
+	height: 200px;
+	background: #71539e;
+}
+
+#texto2 div h1 {
+	font-family: Scotia-bold;
+	color: white;
+	font-size: 3rem;
+}
+
+#roundBorder {
+	border-radius: 2px;
+}
+
+.roundBorder {
+	border-radius: 2px;
+	height: 23px;
+	font-size: 12px;
+	padding: 0px;
+}
+
+.btn-home {
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	position: absolute;
+	height: 50px;
+	width: 200px;
+	margin-bottom: 40px;
+	font-family: 'Scotia-bold';
+	line-height: 1.5rem;
+}
+
+select.decorated option:hover {
+	box-shadow: 0 0 10px 100px #1882A8 inset;
+}
+
+select {
+	background: white;
+	color: #fff;
+}
+
+#header-line {
+	height: 50px;
+	background-color: black;
+	width: 100%;
+	align-items: flex-start;
+}
+
+#small-line {
+	height: 5px;
+	background-color: #1dadf2;
+	width: 100%;
+	align-items: flex-start;
+}
+
+#round-button {
+	border-radius: 15px;
+	height: 30px;
+	width: 30px;
+	padding: 0px;
+	color: black;
+	background-color: white;
+	border-width: medium;
+	border-color: black;
+}
+
+.pop-up {
+	border-radius: 30px;
+}
+
+#credito-btn {
+	background: #F9B891;
+	border-color: transparent;
+}
+
+#credito-btn:hover {
+	background: #ffa16b;
+}
+
+#captacion-btn {
+	background: #ADA9CF;
+	border-color: transparent;
+}
+
+#captacion-btn:hover {
+	background: #8782b2;
+}
+
+@media (max-width: 575.98px) {
+	#credito-btn {
+		border-color: #fff;
+	}
+
+	#captacion-btn {
+		border-color: #fff;
+	}
+}
