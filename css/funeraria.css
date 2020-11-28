@@ -1,0 +1,25 @@
+#textos{
+	background: black;
+	text-align: left;
+	height: 130px;
+}
+
+.blueT{
+	color: #1dafed;
+	margin-left: 10px;
+}
+.whiteT{
+	color: white;
+}
+#contenedorText{
+	background: #C7C3C4;
+}
+.iden{
+	width: 80%;
+}
+#tabla{
+	background: white;
+}
+.colorB{
+	background: #C7C3C4;
+}

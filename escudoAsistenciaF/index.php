@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>Escudo Asistencia Funeraria</title>
   <link rel="stylesheet" type="text/css" href="../css/bootstrap.css?v=<?=time();?>">

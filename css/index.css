@@ -326,7 +326,7 @@ display: none;
 @media (max-width: 1199.98px) { 
 
 .vm{
-		display: inherit !important;
+		display: inherit !important; 
 	}
 	.ve{
 		display: none !important;
