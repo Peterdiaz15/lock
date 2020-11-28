@@ -12,7 +12,7 @@ nav{
   z-index: 1;
 }
 #linea-azul{
-  height: 10px;
+  height: 6px;
   background: #1dafed;
 }
 #carrito{

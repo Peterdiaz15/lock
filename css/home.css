@@ -1,0 +1,25 @@
+#texto{
+	background: #4d4b4b;
+	color: white;
+	height: 80px;
+}
+#programas{
+	background: #6e6d6d;
+}
+#titulo{
+	color: white;
+	height: 50px;
+}
+#titulo h6{
+	border-bottom: 2px solid #1dafed;
+}
+#lista-servicio{
+	width: 90%;
+}
+#servicio div p{
+	color: white;
+	margin-top: 20px;
+}
+#servicio{
+	padding: 20px;
+}
