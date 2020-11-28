@@ -2,6 +2,7 @@
 	#foot {
 		background: #a2aaad;
 		height: 150px;
+		width: 100%;
 	}
 
 	#foot div #p1 {
@@ -34,6 +35,7 @@
 
 	#planes2 {
 		display: flex;
+		width: 100%;
 	}
 
 	#texto2 {

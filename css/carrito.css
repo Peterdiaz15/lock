@@ -177,5 +177,8 @@ width: 50%;
 .padding-right{
 	padding-right: 20px;
 }
+#fecha{
+	padding-left: 0;
+}
 
 }

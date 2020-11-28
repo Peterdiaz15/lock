@@ -3,11 +3,12 @@ $(document).ready(function(){
 
     var meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
     var year = 1920;
+    var estados = ["Aguascalientes","Baja California","Baja California Sur","Campeche","Chiapas","Chihuahua","Ciudad de México","Coahuila","Colima","Durango","Estado de México","Guanajuato","Guerrero","Hidalgo","Jalisco","Michoacán","Morelos","Nayarit","Nuevo León","Oaxaca","Puebla","Querétaro","Quintana Roo","San Luis Potosí","Sinaloa","Sonora","Tabasco","Tamaulipas","Tlaxcala","Veracruz","Yucatán","Zacatecas"];
     for (var i = 0; i < meses.length; i++) {
       $('#mes').append($('<option>', {
-    value: i,
-    text: meses[i]
-    }));
+        value: i,
+        text: meses[i]
+      }));
       
     }
     for (var i = 1920; i < 2021; i++) {
@@ -20,6 +21,14 @@ $(document).ready(function(){
       $('#dia').append($('<option>', {
     text: i
     }));
+      
+    }
+
+    for (var i = 0; i < estados.length; i++) {
+      $('#estado').append($('<option>', {
+        value: i,
+        text: estados[i]
+      }));
       
     }
 
