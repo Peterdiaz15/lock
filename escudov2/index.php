@@ -3,7 +3,8 @@
 <head>
 	<title>Escudo y +</title>
   <link rel="stylesheet" type="text/css" href="../css/bootstrap.css?v=<?=time();?>">
-	<link rel="stylesheet" type="text/css" href="css/index.css?v=<?=time();?>">	
+	<link rel="stylesheet" type="text/css" href="css/index.css?v=<?=time();?>">
+  <link rel="stylesheet" type="text/css" href="../css/generales.css">	
 </head>
 <body>
 

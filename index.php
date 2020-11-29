@@ -39,7 +39,7 @@
 					</div>
 					<div class="col-sm-6 col-lg-3 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/Gastos-medicos-basicos.png" height="200px"></a>
+							<a href="basico/index.php" class="margin-auto"><img src="img/Gastos-medicos-basicos.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Gastos Médicos<br>Básicos Lala</p>
