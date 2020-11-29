@@ -30,5 +30,41 @@ td{
 }
 #tablas div table{
 	margin-bottom: 10px;
-	width: 50%;
+	width: 60%;
+}
+.txt-espaciado{
+	line-height: 2.5rem;
+}
+#formulario form{
+	width: 60%;
+}
+#adquirir button{
+	margin-bottom: 0;
+    width: 100%;
+}
+small{
+	font-size: 60%;
+}
+.padding-right{
+	padding-right: 50px !important;
+}
+@media (max-width: 991.98px){
+	.textos-1 div{
+		margin-left: 50px;
+	}
+	#txt-1 p {
+    width: 90%;
+	}
+	#tablas div table {
+    width: 90%;
+	}
+	#formulario form {
+    width: 90%;
+	}
+	#adquirir button{
+    width: 70%;
+	}
+	.padding-right{
+	padding-right: 10px !important;
+}
 } 
