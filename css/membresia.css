@@ -1,0 +1,63 @@
+.textos-1{
+	height: 150px;
+	color: white;
+}
+.azul{
+	color: #11b7fd;
+}
+#textos{
+	background: black;
+}
+.left{
+	margin-left: 5px;
+}
+#txt-1 p{
+	width: 60%;
+	text-align: center;
+}
+#tablas{
+	background: #c5c4c4;
+}
+th{
+	background: black;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	border: 1px solid white;
+}
+td{
+	border: 1px solid black;
+	padding: 10px;
+	background: white;
+	text-align: center;
+	font-weight: bold;
+}
+#tablas div table{
+	margin-bottom: 10px;
+	width: 80%;
+}
+.boton-tabla{
+	background: transparent;
+	border: none;
+}
+#lista div{
+	width: 80%;
+	font-size: 80%;
+}
+
+@media (max-width: 991.98px){
+	.textos-1 div{
+		margin-left: 50px;
+		width: 80%;
+	}
+	#txt-1 p {
+    width: 90%;
+	}
+	#tablas div table {
+    margin-bottom: 10px;
+    width: 90%;
+	}
+	#lista div{
+	width: 90%;
+	}
+} 

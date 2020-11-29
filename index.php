@@ -55,7 +55,7 @@
 					</div>
 					<div class="col-sm-6 col-lg-3 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/Escudo-digital.png" height="200px"></a>
+							<a href="bolso/index.php" class="margin-auto"><img src="img/Escudo-digital.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Digital Y+</p>
@@ -63,7 +63,7 @@
 					</div>
 					<div class="col-sm-6 col-lg-4 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/escudo-membresia.png" height="200px"></a>
+							<a href="membresia/index.php" class="margin-auto"><img src="img/escudo-membresia.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Membresía</p>
@@ -71,7 +71,7 @@
 					</div>
 					<div class="col-sm-6 col-lg-4 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/Asistencia-funeraria.png" height="200px"></a>
+							<a href="funeraria/index.php" class="margin-auto"><img src="img/Asistencia-funeraria.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Asistencia Funeraria</p>
@@ -79,7 +79,7 @@
 					</div>
 					<div class="col-sm-12 col-lg-4 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/dentista.png" height="200px"></a>
+							<a href="Dental/index.php" class="margin-auto"><img src="img/dentista.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Dental</p>
