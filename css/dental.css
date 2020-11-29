@@ -1,0 +1,44 @@
+#textos{
+	background: black;
+	text-align: left;
+	height: 130px;
+}
+.whiteT{
+	color: white;
+}
+.blueT{
+	color: #1dafed;
+	margin-left: 10px;
+}
+#contenedorText{
+	background: #C7C3C4;
+}
+.espacio2{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.iden{
+	width: 67%;
+}
+.iden2{
+	width: 82%;
+}
+#tabla{
+	background: white;
+}
+.table td{
+	border: 0.2px solid;
+	vertical-align: middle !important;
+}
+.table th{
+	border: 0.2px solid;
+	border-color: white !important;
+	vertical-align: middle !important;
+}
+#ultimaFila{
+	background: #C7C3C4;
+	
+}
+.fila{
+	border-color: #C7C3C4 !important; 
+}
