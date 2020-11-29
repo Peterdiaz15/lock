@@ -75,8 +75,6 @@
         <td>Honorarios Quirúrgicos por reembolso</td>
         <td>Gua +75 %</td>
       </tr>
-
-
     </table>
   </div>
 </div>

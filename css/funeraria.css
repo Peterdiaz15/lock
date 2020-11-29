@@ -17,9 +17,50 @@
 .iden{
 	width: 80%;
 }
+.iden2{
+	width: 65%;
+}
 #tabla{
 	background: white;
 }
 .colorB{
 	background: #C7C3C4;
+	border-color: #C7C3C4;
+	
+}
+
+th{
+	background: black; 
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+td{
+	border: 1px solid black;
+	padding: 10px;
+	background: white;
+	text-align: center;
+	font-weight: bold;
+	width: 35%;
+
+}
+#botonTabla{
+	border-color: #C7C3C4; 
+}
+#azul{
+	background: #1AAFF1;
+}
+#textWhite{
+	color: white;
+}
+.espacio2{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#parte2{
+	background: #C7C3C4;
+}
+#grisObs{
+	background: #807C7D;
+	color: white;
 }
