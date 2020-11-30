@@ -17,11 +17,16 @@
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
+.espacio{
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
 .iden{
 	width: 67%;
 }
 .iden2{
 	width: 82%;
+	margin-bottom: 30px !important;
 }
 #tabla{
 	background: white;

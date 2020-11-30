@@ -1,0 +1,70 @@
+#textos{
+	background: black;
+}
+.whiteT{
+	color: white;
+}
+.blueT{
+	color: #1dafed;
+	margin-left: 10px;
+}
+#contenedorText{
+	background: #C7C3C4;
+}
+#tablaW{
+	width: 91%;
+}
+#tablaWi{
+	width: 91%;
+}
+#tabla{
+	background: white;
+}
+.table td{
+	border: 0.1px solid;
+	vertical-align: middle !important;
+}
+.table th{
+	border: 0.1px solid;
+	border-color: white !important;
+	vertical-align: middle !important;
+}
+#ultimaFila{
+	background: #C7C3C4;
+	
+}
+.fila{
+	border-color: #C7C3C4 !important; 
+}
+.iden2{
+	width: 70%;
+}
+.tablas table{
+	width: 95% !important;
+}
+small{ 
+	font-size: 60%;
+}
+.textos-1{
+	height: 150px;
+}
+@media (max-width: 991.98px){
+	.textos-1 div{
+		margin-left: 50px;
+	}
+	#txt-1 p {
+    width: 90%;
+	}
+	#tablas div table {
+    width: 90%;
+	}
+	#formulario form {
+    width: 90%;
+	}
+	#adquirir button{
+    width: 70%;
+	}
+	.padding-right{
+	padding-right: 10px !important;
+	}
+}

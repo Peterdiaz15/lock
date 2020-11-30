@@ -129,8 +129,8 @@
             </ul>
 		 </div>
 		</div>
-		<div class="col-12 display-flex">
-		 <div class="margin-auto iden2">
+		<div class="col-12 display-flex ">
+		 <div class="margin-auto iden2 espacio3">
 		  <p>Consideraciones Importantes <br>
 			Los dependientes deberán inscribirse al programa al mismo tiempo que el Titular. No se permite la inscripción de solo algunos de los dependientes.
 			Para nuevos dependientes (hijos nacidos durante la vigencia, o que el Titular haya contraído matrimonio) deberán inscribirse el primer día del mes siguiente a su elegibilidad como dependientes.
