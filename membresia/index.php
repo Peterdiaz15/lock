@@ -22,7 +22,7 @@
   <div class="col-sm-12 col-lg-6 display-flex textos-1">
     <div class="margin-auto row">
       <div class="col-12">
-        <p>Categorías: <span class="azul">Dependientes Jefes</span></p>
+        <p>Categorías: <span class="azul">Colaboradores</span></p>
       </div>
       <div class="col-12">
         <p>Asistenciadora: <span class="azul">Iké Asistencia</span></p>
@@ -31,11 +31,11 @@
   </div>
   <div class="col-sm-12 col-lg-6 display-flex textos-1">
     <div class="margin-auto row">
-      <div class="col-12">
+      <div class="col-12 d-none">
         <p>Aseguradora: <span class="azul">Seguros Monterrey New York Life</span></p>
       </div>
       <div class="col-12 display-flex">
-        <p>Elegibilidad: </p><span class="azul left">Titular, Cónyuge, Padres (siempre y cuando dependa<br> económicamente de éste) e hijos</span>
+        <p>Elegibilidad: </p><span class="azul left">Titular, Cónyuge, Padres (siempre y cuando dependa<br> económicamente de éste) e hijos.</span>
       </div>
     </div>
   </div>

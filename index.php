@@ -31,7 +31,7 @@
 				<div class="row margin-auto espacio" id="lista-servicio">
 					<div class="col-sm-6 col-lg-3 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/circulo-gastos-medicos-mayores.png" height="200px"></a>
+							<a href="mayores/index.php" class="margin-auto"><img src="img/circulo-gastos-medicos-mayores.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Gastos Médicos<br>Excesos Voluntarios </p>
@@ -47,7 +47,7 @@
 					</div>
 					<div class="col-sm-6 col-lg-3 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="" class="margin-auto"><img src="img/COVID-Y+.png" height="200px"></a>
+							<a href="https://www.beaffinitylm.com/escudo_covid/index.php?ent=undefined" class="margin-auto"><img src="img/COVID-Y+.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Covid Y+</p>
@@ -55,7 +55,7 @@
 					</div>
 					<div class="col-sm-6 col-lg-3 row" id="servicio">
 						<div class="col-12 display-flex">
-							<a href="bolso/index.php" class="margin-auto"><img src="img/Escudo-digital.png" height="200px"></a>
+							<a href="https://www.beaffinitylm.com/escudo_digital/index.php" class="margin-auto"><img src="img/Escudo-digital.png" height="200px"></a>
 						</div>
 						<div class="col-12">
 							<p class="texto-centrado">Escudo Digital Y+</p>
