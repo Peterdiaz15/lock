@@ -189,7 +189,7 @@
               </div>
             </div>
             <div class="col-12 padd df" id="botonf">
-              <button type="submit" class="btn btn-primary">Comprar</button>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">Comprar</button>
             </div>
 
             </div>
@@ -202,7 +202,8 @@
       </div>    
     </div>
 
- <?php 
+ <?php
+  include '../php/modal.php'; 
  	include '../php/footer.php';
   ?>
 </div>	
