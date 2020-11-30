@@ -117,6 +117,7 @@
 		</div>
 		<div class="col-12 display-flex espacio">
 		 <div class="margin-auto iden2">
+		 	<small>
 		 	<ul>
               <li>Elegibilidad<br>Titular, Cónyuge, Hijos y Padres siempre y cuando dependa económicamente de éste.</li><br>
               <li>Edad de Aceptación<br>Titular, Cónyuge y Padres sin limite de edad<br>Hijos: hasta los 24 años.</li><br>
@@ -127,10 +128,12 @@
               <li>La prima total es anual e incluye IVA, derecho de póliza.</li>
               <li>Forma de Pago: Tarjeta de Crédito o Débito.</li>
             </ul>
+            </small>
 		 </div>
 		</div>
 		<div class="col-12 display-flex ">
-		 <div class="margin-auto iden2 espacio3">
+		 <div class="margin-auto iden2">
+		 	<small>
 		  <p>Consideraciones Importantes <br>
 			Los dependientes deberán inscribirse al programa al mismo tiempo que el Titular. No se permite la inscripción de solo algunos de los dependientes.
 			Para nuevos dependientes (hijos nacidos durante la vigencia, o que el Titular haya contraído matrimonio) deberán inscribirse el primer día del mes siguiente a su elegibilidad como dependientes.
@@ -138,6 +141,7 @@
 			No hay cancelación anticipada del seguro. En caso de baja del Titular de la empresa se le deberá descontar el importe de la prima del seguro de su finiquito y podrá continuar con la cobertura hasta el fin de vigencia.
 			El asegurado recibirá por parte de Dentegra: Certificado Digital.
           </p>
+          </small>
 		 </div>
 		</div>
 		<?php include '../php/footer.php' ?>
