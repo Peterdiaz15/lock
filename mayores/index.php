@@ -14,7 +14,7 @@
 	 	 <div class="col-12">
 	 	 	<img src="../img/BANNER-1920X500-CLIC1.png" width="100%">
 	 	 </div>
-	 	</div>
+	 	</div> 
 	 	<div class="row" id="textos">
 			<div class="col-sm-12 col-lg-6 display-flex textos-1">
 				<div class="margin-auto">

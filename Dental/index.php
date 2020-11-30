@@ -16,7 +16,7 @@
 			</div>
 		</div>
 		<div class="row" id="textos">
-			<div class="col-sm-12 col-lg-6 display-flex">
+			<div class="col-sm-12 col-lg-6 display-flex textos-1">
 				<div class="margin-auto row">
 					<div class="col-12">
 						<p class="whiteT">Categorías: <span class="blueT">Colaboradores</span></p>
@@ -26,7 +26,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-lg-6 display-flex">
+			<div class="col-sm-12 col-lg-6 display-flex textos-1">
 				<div class="margin-auto row">
 					<div class="col-12">
 						<p class="whiteT">Aseguradora: <span class="blueT">Dentegra</span></p>
@@ -47,7 +47,7 @@
 				<div class="margin-auto iden">
 					<table class="table text-center">
 						<thead class="thead-dark">
-							<th  rowspan="2">DESCRIPCION</th>
+							<th  rowspan="2">DESCRIPCIÓN</th>
 
 							<th colspan="2">COPAGO A CARGO DEL ASEGURADO</th>
 							<tr>
@@ -62,17 +62,17 @@
 							<td>0%</td>
 						</tr>
 						<tr>
-							<td><strong>Diagnostico y Prevencion</strong><br> (Evaluacion oral,Rayos X, Limpieza, Fluor y Selladores)</td>
+							<td><strong>Diagnóstico y Prevención</strong><br> (Evaluación oral,Rayos X, Limpieza, Flúor y Selladores)</td>
 							<td>20%</td>
 							<td>0%</td>
 						</tr>
 						<tr>
-							<td><strong>Restaurativo Basico</strong><br> (Tratamiento con Amalgamas y Resinas)</td>
+							<td><strong>Restaurativo Básico</strong><br> (Tratamiento con Amalgamas y Resinas)</td>
 							<td>20%</td>
 							<td>20%</td>
 						</tr>
 						<tr>
-							<td><strong>Procedimientos Quirurgicos</strong><br> (Extrasiones Simples y otros procedimientos menores)</td>
+							<td><strong>Procedimientos Quirúrgicos</strong><br> (Extrasiones Simples y otros procedimientos menores)</td>
 							<td>20%</td>
 							<td>20%</td>
 						</tr>
@@ -82,12 +82,12 @@
 							<td>20%</td>
 						</tr>
 						<tr>
-							<td><strong>Remocion de terceros Molares y Procedimientos Quirugicos Complejos</strong><br> (Remocion de nervio dental)</td>
+							<td><strong>Remoción de terceros Molares y Procedimientos Quirúgicos Complejos</strong><br> (Extracción de muelas del juicio y otros procedimientos complejos)</td>
 							<td>20%</td>
 							<td>20%</td>
 						</tr>
 						<tr>
-							<td><strong>Periodoncia</strong><br> (Tratamiento de enfermedad de encia y hueso)</td>
+							<td><strong>Periodoncia</strong><br> (Tratamiento de enfermedad de encías y hueso)</td>
 							<td>No Incluido <br>Descuento de 20%</td>
 							<td>20%</td>
 						</tr>

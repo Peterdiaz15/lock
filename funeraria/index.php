@@ -16,7 +16,7 @@
 	  	</div>
 	  </div>
 	  <div class="row" id="textos">
-	  	<div class="col-sm-12 col-lg-6 display-flex">
+	  	<div class="col-sm-12 col-lg-6 display-flex textos-1">
 	  	  <div class="margin-auto row">
 	  		<div class="col-12">
 	  			<p class="whiteT">Categorías: <span class="blueT">Colaboradores</span></p>
@@ -26,7 +26,7 @@
 	  		</div>
 	  	  </div>
 	  	</div>
-	  	<div class="col-sm-12 col-lg-6 display-flex">
+	  	<div class="col-sm-12 col-lg-6 display-flex textos-1">
 	  	  <div class="margin-auto row">
 	  		<div class="col-12">
 	  			<p class="whiteT">Aseguradora: <span class="blueT">Dentegra</span></p>

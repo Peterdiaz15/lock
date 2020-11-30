@@ -1,7 +1,5 @@
 #textos{
 	background: black;
-	text-align: left;
-	height: 130px;
 }
 .whiteT{
 	color: white;
@@ -22,7 +20,7 @@
 	margin-bottom: 50px;
 }
 .iden{
-	width: 67%;
+	width: 60%;
 }
 .iden2{
 	width: 82%;
@@ -49,4 +47,30 @@
 }
 small{ 
 	font-size: 60%;
+}
+.textos-1{
+	height: 150px;
+}
+@media (max-width: 991.98px){
+	.textos-1 div{
+		margin-left: 50px;
+	}
+	#txt-1 p {
+    width: 90%;
+	}
+	#tablas div table {
+    width: 90%;
+	}
+	#formulario form {
+    width: 90%;
+	}
+	#adquirir button{
+    width: 70%;
+	}
+	.padding-right{
+	padding-right: 10px !important;
+	}
+	.iden{
+	width: 90%;
+}
 }

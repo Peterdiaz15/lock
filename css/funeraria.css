@@ -1,7 +1,5 @@
 #textos{
 	background: black;
-	text-align: left;
-	height: 130px;
 }
 
 .blueT{
@@ -63,4 +61,27 @@ td{
 #grisObs{
 	background: #807C7D;
 	color: white;
+}
+.textos-1{
+	height: 150px;
+}
+@media (max-width: 991.98px){
+	.textos-1 div{
+		margin-left: 50px;
+	}
+	#txt-1 p {
+    width: 90%;
+	}
+	#tablas div table {
+    width: 90%;
+	}
+	#formulario form {
+    width: 90%;
+	}
+	#adquirir button{
+    width: 70%;
+	}
+	.padding-right{
+	padding-right: 10px !important;
+	}
 }
