@@ -116,8 +116,19 @@
         <div class="col-sm-6 col-lg-3 padding-right">
           <label for="inputEmail4">Edad</label>
           <select id="inputState" class="form-control">
-            <option selected>Choose...</option>
-            <option>...</option>
+            <option>00-04</option>
+            <option>05-09</option>
+            <option>10-14</option>
+            <option>15-19</option>
+            <option>20-24</option>
+            <option>25-29</option>
+            <option>30-34</option>
+            <option>35-39</option>
+            <option>40-44</option>
+            <option>45-49</option>
+            <option>50-54</option>
+            <option>55-59</option>
+            <option>60-64</option>
           </select>
         </div>
         <div class="col-sm-6 col-lg-3 padding-right">
@@ -137,7 +148,7 @@
       </div>
     </form>
   </div>
-  <div class="col-12 display-flex espacio">
+  <div class="col-12 display-flex espacio" id="txt-abajo">
     <small class="margin-auto texto-centrado">
       <b>No ampara: Complementos, Antigüedad, eliminación de periodos de espera, Dividendos, Facturas Individualizadas.
       Beneficio no portable.<br>*Amparado por Iké Asistencias (Aplican condiciones de acuerdo a sus condiciones Generales).<br>La divulgación incompleta y parcial de los hechos importantes que puedan influir en la apreciación del riesgo, incurrirá en la falsa declaración<br>/no divulgación de información;  hecho que facultará a la(s) compañía(s) de seguros para considerar la invalidez de la cotización proporcionada o el contrato de seguro emitido.</b>

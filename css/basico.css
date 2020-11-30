@@ -48,6 +48,10 @@ small{
 .padding-right{
 	padding-right: 50px !important;
 }
+#txt-abajo small{
+	width: 70%;
+	text-align: left;
+}
 @media (max-width: 991.98px){
 	.textos-1 div{
 		margin-left: 50px;
@@ -67,5 +71,8 @@ small{
 	}
 	.padding-right{
 	padding-right: 10px !important;
+	}
+	#txt-abajo small {
+    width: 90%;
 	}
 } 

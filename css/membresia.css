@@ -48,7 +48,7 @@ td{
 @media (max-width: 991.98px){
 	.textos-1 div{
 		margin-left: 50px;
-		width: 80%;
+		width: 60%;
 	}
 	#txt-1 p {
     width: 90%;
@@ -60,4 +60,15 @@ td{
 	#lista div{
 	width: 90%;
 	}
+}
+@media (max-width: 575.98px) {
+	.textos-1 div{
+		margin-left: 15px;
+		width: 70%;
+	}
+	#tablas div table {
+    margin-bottom: 10px;
+    width: 99%;
+	}
+
 } 

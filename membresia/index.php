@@ -45,7 +45,7 @@
     <p class="margin-auto"><b>Escudo Membresía es el programa de Asistencias y Seguros de Salud para ti y tu familia.</b><br>Tu y tu familia contarán la cobertura de seguros de reembolso de gastos médicos por accidente. Además, tendrán acceso a las siguientes asistencias: Consultas con Médico General con copago, Ambulancia por emergencia, Descuentos en laboratorios y Farmacias, Asistencias virtuales: Médica, Psicológica, Pedagógica y Nutricional, Descuentos Dentales, Asistencia Funeraria, Descuentos comerciales, entre otros.</p>
   </div>
   <div class="col-12 display-flex" id="tablas">
-    <table class="margin-auto">
+    <table class="margin-auto table-responsive">
       <tr>
         <th rowspan="2">CONCEPTO</th>
         <th>Tarjeta</th>
@@ -188,7 +188,7 @@
       <li>Sin edades de aceptación.</li> 
       <li>Las primas son anuales, incluyen IVA.</li>
       <li>Facturación Anual.</li>
-      <li>No hay bajas.</li>
+      <li><b>No hay bajas.</b></li>
       <li>Precio por error y/o reposición $43.10 más IVA.</li>
     </ul>
     </div>
